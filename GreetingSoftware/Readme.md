@@ -28,5 +28,5 @@ Follow these easy steps to start receiving your verbal greetings:
 Get the code on your local machine:
 
 ```bash
-git clone https://github.com/zubair5636/greet-software.git
+git clone https://github.com/zubair5636/MyFirstProjects.git
 cd greet-software
